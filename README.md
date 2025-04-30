@@ -29,6 +29,8 @@ Dance Dance Hero combines the best of Dance Dance Revolution and Guitar Hero int
 
 # Final Product
 
-![ProjectDiagram](Build.jpg)
+![ProjectBuild](Build.jpg)
+
+[Click here to see/download the gameplay](Gameplay.mp4)
 
 
