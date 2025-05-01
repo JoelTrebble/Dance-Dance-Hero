@@ -27,7 +27,27 @@ Dance Dance Hero combines the best of Dance Dance Revolution and Guitar Hero int
 
 • Created as a passion project and final assignment for my mechatronics class
 
-# Final Product
+• For my inplementation, check the code to see how I mapped it
+
+# 🏗️ Installation Instructions
+
+1. [Install the Arduino IDE](https://www.arduino.cc/en/software/)
+
+2. Clone or download this repository
+   
+4. Open the Project.ino file in the Arduino IDE
+   
+5. At the top menu click "Sketch" → "Include Library" → "Add .ZIP Library"
+   
+7. Add "pitches.zip" from the repository
+   
+8. Connect your Arduino board via USB
+   
+9. Select the correct board and port from the Tools menu
+   
+10. Click Upload to transfer the code to your Arduino
+
+# 🤖 Final Product
 
 ![ProjectBuild](Build.jpg)
 
